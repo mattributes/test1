@@ -4,4 +4,5 @@
     "PluginType": "Panel",
     "Panel": "PLUGINLOCATION/plugin.html",
     "PanelIcon": "PLUGINLOCATION/plugin.png"
+    "Scripts": []
 }
